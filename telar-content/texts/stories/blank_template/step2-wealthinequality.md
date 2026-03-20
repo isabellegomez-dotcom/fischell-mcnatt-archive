@@ -1,5 +1,5 @@
 ---
-"Wealth Inequality in Medellín"
+Wealth Inequality Medellín
 ---
 
 Following World War II, the neoliberal policies and structural adjustment programs of the World Bank and the IMF created vast wealth inequality for countries in the Global South. Combined with the political instability of Colombia during this time, whether that be the weak leadership or the Cold War conflict between US military operations and left-wing guerillas targeting the cartel, the period of the 1970s in Colombia reflected a time of great economic and political instability.
